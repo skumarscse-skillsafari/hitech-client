@@ -46,7 +46,7 @@ const NavbarComp = () => {
     // <div className="min-h-screen">
     <div
       style={{ minHeight: "calc(100vh-30vh)" }}
-      className="sticky top-0 w-full z-50 shadow-md"
+      // className="sticky top-0 w-full z-50 shadow-md"
     >
       {/* Top Navigation Bar */}
       <div className="bg-yellow-400 text-white">
