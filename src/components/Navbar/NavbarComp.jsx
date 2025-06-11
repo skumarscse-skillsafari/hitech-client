@@ -6,6 +6,7 @@ import aicte from "../../assets/aicte.jpg";
 import naac from "../../assets/naac.png";
 import anna from "../../assets/anna.png";
 import hect from "../../assets/hect.png";
+import nba from "../../assets/NBA.png";
 
 const TopNavDropdown = ({ items }) => {
   return (
@@ -151,8 +152,8 @@ const NavbarComp = () => {
                 </div>
                 <div className="w-32">
                   <img
-                    src={hect}
-                    alt="College Logo"
+                    src={nba}
+                    alt="NBA Logo"
                     style={{ height: 130, width: "auto" }}
                     className="mb-4 md:mb-0"
                   />
